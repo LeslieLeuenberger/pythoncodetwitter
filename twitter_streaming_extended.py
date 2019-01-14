@@ -1,10 +1,10 @@
 import twitter, json, sys, csv #importing different modules needed for the execution of this code
 
 # == OAuth Authentication ==
-CONSUMER_KEY = '7QDRwrQX8A6gKg6I4tolRvn6B'
-CONSUMER_SECRET = 'KvNhNy2vXab6l6udpAt1MwOivR4no5BmyNsyEHfwc6N1riOOUJ'
-OAUTH_TOKEN = '42003401-heQmtAok7TTPOcFsyYQcSJyoefj0NhfCJnSmmso23'
-OAUTH_TOKEN_SECRET = 'UkFusRg9909tgvf3UiK5fTRkCCljKJpxRftdHJ7YNIish' #personal consumer secret
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = '' #personal consumer secret
 
 # Creates an access token under the the "Your access token" section
 access_token="918797696-6UylNJquJsdEAuPWpdKhopfXuFXc8oarv65XpJ4m"# access token key
